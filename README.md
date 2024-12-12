@@ -19,5 +19,5 @@
 
 Клонируйте репозиторий:
    ```bash
-      https://github.com/BulatKayrov/scraping_megafonShop.git
+      git clone https://github.com/BulatKayrov/scraping_megafonShop.git
 
