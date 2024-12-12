@@ -19,5 +19,5 @@
 
 Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/ваш_пользователь/парсер_товаров.git
+   [git clone https://github.com/ваш_пользователь/парсер_товаров.git](https://github.com/BulatKayrov/scraping_megafonShop.git)
 
